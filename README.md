@@ -13,26 +13,6 @@ Aplikasi Manajemen Operasional Depot Air Minum — dibuat dengan Flutter & SQLit
 - 🏪 **Stok**  
   Kelola stok bahan baku seperti air, galon kosong, tutup botol, dan tisu.
 
-## 🧱 Struktur Proyek
-lib/
-├── db/
-│   └── database\_helper.dart
-├── models/
-│   ├── customer.dart
-│   ├── product.dart
-│   ├── stock\_item.dart
-│   ├── transaction.dart
-│   └── transaction\_item.dart
-├── screens/
-│   ├── home\_page.dart
-│   ├── add\_transaction\_page.dart
-│   ├── data\_page.dart
-│   ├── product\_page.dart
-│   └── stock\_page.dart
-├── widgets/
-│   └── navbar.dart
-└── main.dart
-
 ## 🛠 Teknologi yang Digunakan
 - **Flutter** (Framework UI)
 - **Dart** (Bahasa Pemrograman)
